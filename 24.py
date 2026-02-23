@@ -10,7 +10,6 @@ while pin!=correct_pin:
 
 ##
 available_seats = 5
-
 while available_seats > 0:
     print(f"{available_seats} seats available.")
     booking = input("Do you want to book a seat? (yes/no): ").lower()
