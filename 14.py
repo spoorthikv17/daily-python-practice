@@ -1,0 +1,16 @@
+# simple tuple 
+my_tuple = (1, 2,3 ,4 ,5 ,6)
+print(max(my_tuple))
+print(min(my_tuple))
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+
+tuple2 = (a, b, c, d, e)
+print(tuple2)
+print(tuple2.count(2))
+list = list(my_tuple)
+list.append(99)
+print(list)

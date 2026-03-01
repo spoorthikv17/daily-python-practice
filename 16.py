@@ -1,0 +1,12 @@
+a = int(input("enter a number: "))
+b = int(input("enter a number: "))
+c = int(input("enter a number: "))
+d = int(input("enter a number: "))
+e = int(input("enter a number: "))
+
+my_tuple = (a, b, c, d, e)
+print(my_tuple)
+my_set = set(my_tuple)
+print("Unique count:",len(my_set))
+print("largest:", max(my_set))
+print("smallest:", min(my_set))
