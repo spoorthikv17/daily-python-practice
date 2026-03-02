@@ -11,6 +11,7 @@ I'm a 2nd year Engineering student learning Python step by step.
 - lists
 - Tuples
 - Sets
+- dictionaries
 - (Loops coming soon)
 
 ## 💻 Practice Approach
